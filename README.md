@@ -1,1 +1,2 @@
-# Basic CRUD REST API
+# How to compile the app ?
+npm install
