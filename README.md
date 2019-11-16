@@ -1,2 +1,2 @@
 # How to compile the app ?
-npm install
+Use this start to install package.json
