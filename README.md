@@ -6,27 +6,27 @@ $npm install
 ```
 Once you have installed the dependencies, run the following command in the terminal to run the application in prodution mode 
 ```ssh
-*$npm start*
+$npm start
 ```
 
 If the command was executed correctly, the following information will appear:
 ```ssh
-*Environment:  production* 
-*Listening to the port 4000*
-*ONLINE database*
+Environment:  production
+Listening to the port 4000
+ONLINE database
 ```
 Or if you want to run the application in developer mode, you can use the next command :
 
 ```ssh
-*$npm run dev*
+$npm run dev
 ```
 
 If the command was executed correctly, the following information will appear:
 
 ```ssh
-*Environment:  production 
+Environment:  production 
 Listening to the port 4000
-ONLINE database *
+ONLINE database 
 ```
 once the application is executed correctly, we can use the url *http://localhost:4000* (if you are run in local)or *the assigned prodution url* (if you are run in prodution )to interact wiht  our web app
  
