@@ -11,9 +11,9 @@ Once you have installed the dependencies, run the following command in the termi
 
 If the command was executed correctly, the following information will appear:
 
-*Environment:  production 
-Listening to the port 4000
-ONLINE database*
+*Environment:  production* 
+*Listening to the port 4000*
+*ONLINE database*
 
 Or if you want to run the application in developer mode, you can use the next command :
 
